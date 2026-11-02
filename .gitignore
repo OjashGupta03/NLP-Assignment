@@ -1,4 +1,23 @@
+# Virtual environment
 venv/
 
-
+# Downloaded corpus/data
 indiccorp_hindi/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated/split datasets
+lab 4/split data/
+lab 4/__pycache__
+lab 3/DOC-20260820-WA0014.pdf
+lab 3/brown_nouns.txt
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+lab 7/Hindi-POS-Data/
+lab 7/NLP-Lab-Assignment-7-2026.pdf
+lab 8/Spell-Correction/
+lab 8/NLP-Lab-Assignment-8-2026.pdf
+lab 8/NLP-Midsem-Questions-2026.pdf

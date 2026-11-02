@@ -1,0 +1,13 @@
+{
+    "language": "Hindi",
+    "dataset": "ai4bharat/IndicCorpV2",
+    "source_file": "../data/hi-1.txt",
+    "maximum_sentences_requested": 1000000,
+    "total_sentences": 1000000,
+    "total_tokens": 19468642,
+    "unique_tokens": 291415,
+    "total_characters": 72271697,
+    "average_sentence_length": 19.468642,
+    "average_word_length": 3.712210486997501,
+    "type_token_ratio": 0.014968429744611874
+}
